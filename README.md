@@ -2,6 +2,22 @@
 Part of the Lita Capstone Project, this repository includes a customer dataset used for analyzing customer demographics, subscription behaviors, and retention trends. This analysis will aid in improving customer engagement, retention, and targeted marketing strategies
 
 ### Lita Capstone Project - Customer Dataset
+
+[Project Overview](#project-overview)
+
+[Project Dataset](#project-dataset)
+
+[Data Fields](#data-fields)
+
+[Key Metrics](#key-metrics)
+
+[Usage](#usage)
+
+[Tools Used](#tools-used)
+
+[Recommendations](#recommendation)
+
+[Conclusion](#conclusion)
 ### Project Overview
 The *Customer Dataset* repository is an essential part of the *Lita Capstone Project*, focused on understanding customer demographics, subscription behaviors, and retention trends. This analysis supports the organization's efforts to enhance customer engagement, improve retention rates, and optimize marketing strategies. By studying customer characteristics, purchase history, and subscription details, we can better tailor our services to meet customer needs and identify opportunities for cross-selling and upselling.
 This repository is intended for use by customer analysts, marketing teams, and business stakeholders to drive data-informed decisions for customer relationship management and personalized marketing.
@@ -26,5 +42,45 @@ This data can be used to:
 1. Segment customers by subscription type, region, and revenue.
 2. Analyze acquisition and retention trends over time.
 3. Develop targeted marketing strategies based on customer preferences and behavior.
----
 
+   ### Tools Used
+   ##### Microsoft Excel [Download here](https:www.microsoft.com)
+* For data cleaning
+* Analysis
+* For Data Visualization
+##### SQL (Structure Query Language)
+* For extracting key insights from the dataset
+* For Data Quering
+##### PowerBI
+* Used to create interactive dashboards and visualizations.
+
+
+<img width="622" alt="CUSTOMER ANALYSIS DASHBOARD" src="https://github.com/user-attachments/assets/cba23913-6889-468e-bc2f-8e8daba5796d">
+
+### Recommendation
+# Customer Data Analysis: Recommendations for Improvement
+
+Based on the analysis of customer data, the following recommendations are proposed to improve customer retention, maximize revenue, and enhance overall customer satisfaction:
+
+## 1. Enhance Onboarding and Early Engagement
+   - Recommendation: Focus on improving the early customer experience by implementing an *onboarding program* that includes tutorials, welcome emails, and interactive support to reduce cancellations. Engaging customers early can foster a better understanding of the service and improve retention.
+   - Action: Introduce structured onboarding processes for the first three months to engage new users effectively.
+
+## 2. Develop Loyalty Programs for Long-Term Subscribers
+   - Recommendation: Introduce loyalty rewards to retain long-term customers. Offer exclusive perks, discounts, or additional benefits to increase customer satisfaction and ensure sustained engagement.
+   - Action: Create a loyalty program that rewards customers based on their subscription duration, such as offering benefits for those who stay subscribed for 12 months or more.
+
+## 3. Promote Upgrades to Higher-Tier Subscriptions
+   - Recommendation: Promote upgrades to higher-tier subscriptions (Premium and Standard) to generate more revenue. Target Basic plan subscribers with marketing campaigns that highlight the benefits of upgrading.
+   - Action: Run targeted campaigns that show the unique features of Premium and Standard plans and offer discounts or other incentives to encourage upgrades.
+
+### Conclusion
+
+The customer data analysis has provided valuable insights that can help improve customer retention and boost overall revenue. By focusing on key metrics such as cancellation rates, subscription duration, and revenue by subscription type, businesses can make informed decisions to enhance customer satisfaction and loyalty.
+
+Key strategies to implement include:
+- Improving Onboarding and Early Engagement: Reducing cancellations by enhancing the first few months of a customer's experience with structured onboarding.
+- Developing Loyalty Programs: Retaining long-term subscribers by offering rewards, discounts, or exclusive benefits to those who remain subscribed for extended periods.
+- Promoting Upgrades to Higher-Tier Subscriptions: Increasing revenue by encouraging customers on lower-tier plans to upgrade to higher-value options through targeted promotions.
+
+By tracking these metrics and applying the suggested strategies, businesses can reduce customer churn, increase retention, and ultimately optimize revenue growth.
